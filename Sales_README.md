@@ -11,7 +11,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 - VS Code 
 
 ## Dataset Description
-The dataset contains information about retail transactions, including:
+ The dataset contains information about retail transactions, including:
 - Date of purchase
 - Product Category
 - Quantity of items sold
