@@ -7,26 +7,26 @@ This project focuses on cleaning and preprocessing a dataset to enhance its qual
 
 ## Objective
 The primary objectives of this project are:
--To identify and handle missing values within the dataset
--To detect and remove duplicate records
--To correct inconsistent data types
--To standardize the dataset for uniformity
--To identify and analyze potential outliers
+- To identify and handle missing values within the dataset
+- To detect and remove duplicate records
+- To correct inconsistent data types
+- To standardize the dataset for uniformity
+- To identify and analyze potential outliers
 
 ## Tools & Technologies Used
-   -Python
-   -Pandas
-   -Matplotlib
-   -Seaborn
-   -VS Code
+   - Python
+   - Pandas
+   - Matplotlib
+   - Seaborn
+   - VS Code
 
 ## Dataset Description
 The dataset used in this project consists of raw and unprocessed data. It may include:
 
--Missing (null) values
--Duplicate records
--Inconsistent data formats
--Incorrect or mismatched data types
+- Missing (null) values
+- Duplicate records
+- Inconsistent data formats
+- Incorrect or mismatched data types
 
 This dataset serves as a practical example for demonstrating various data cleaning techniques.
 
@@ -59,25 +59,25 @@ This dataset serves as a practical example for demonstrating various data cleani
        The cleaned dataset was exported and saved as a new file (cleaned_dataset.csv) for further use.
 
 ## Results and Observations
--Missing values were successfully identified and handled.
--Duplicate records were detected and removed, improving data integrity.
--Data types were corrected to ensure accurate representation.
--Standardization improved consistency across the dataset.
--Outliers were identified in numerical columns, indicating potential anomalies.
+- Missing values were successfully identified and handled.
+- Duplicate records were detected and removed, improving data integrity.
+- Data types were corrected to ensure accurate representation.
+- Standardization improved consistency across the dataset.
+- Outliers were identified in numerical columns, indicating potential anomalies.
 
 ## Insights
--Missing data can significantly affect the reliability of analysis if not properly handled.
--Duplicate entries can lead to incorrect conclusions and must be eliminated.
--Consistent formatting is essential for accurate data processing.
--Outliers may represent unusual or erroneous data points and should be carefully evaluated.
+- Missing data can significantly affect the reliability of analysis if not properly handled.
+- Duplicate entries can lead to incorrect conclusions and must be eliminated.
+- Consistent formatting is essential for accurate data processing.
+- Outliers may represent unusual or erroneous data points and should be carefully evaluated.
 
 ## Recommendations
--It is recommended to implement proper data validation techniques during data entry to minimize missing values and ensure data completeness.
--Duplicate records should be avoided by applying appropriate constraints and validation checks to maintain data integrity.
--Consistent data formats should be maintained across all columns to improve data processing efficiency and accuracy.
--Regular monitoring and auditing of datasets should be conducted to identify inconsistencies or anomalies at an early stage.
--Outliers should be carefully analyzed and treated appropriately, as they may impact the accuracy of analysis and decision-making.
--Data cleaning should always be performed as a mandatory preprocessing step before any data analysis or machine learning task.
+- It is recommended to implement proper data validation techniques during data entry to minimize missing values and ensure      data completeness.
+- Duplicate records should be avoided by applying appropriate constraints and validation checks to maintain data integrity.
+- Consistent data formats should be maintained across all columns to improve data processing efficiency and accuracy.
+- Regular monitoring and auditing of datasets should be conducted to identify inconsistencies or anomalies at an early stage.
+- Outliers should be carefully analyzed and treated appropriately, as they may impact the accuracy of analysis and decision-    making.
+- Data cleaning should always be performed as a mandatory preprocessing step before any data analysis or machine learning task.
 
 ## Conclusion
 This project successfully demonstrated the importance of data cleaning in the data analytics workflow. By handling missing values, removing duplicates, correcting data types, and standardizing the dataset, the data was transformed into a clean and reliable format.
