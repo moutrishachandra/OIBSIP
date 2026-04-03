@@ -5,21 +5,21 @@
 The objective of this project is to perform data cleaning on the YouTube trending videos dataset to improve data quality, ensure consistency, and prepare the dataset for accurate analysis and decision-making.
 
 ## Tools & Technologies Used
--Python
--Pandas
--Matplotlib
--Seaborn
--VS Code 
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- VS Code 
 
 ## Dataset Description
 The dataset contains information about trending YouTube videos in India, including:
 
--Video ID
--Title and Channel Name
--Category ID
--Views, Likes, Dislikes, Comment Count
--Publish Time and Trending Date
--Video Description
+- Video ID
+- Title and Channel Name
+- Category ID
+- Views, Likes, Dislikes, Comment Count
+- Publish Time and Trending Date
+- Video Description
 
 ## Steps Performed
 ### 1. Data Integrity
@@ -45,21 +45,21 @@ The dataset contains information about trending YouTube videos in India, includi
        Engagement Ratio
        
 ##  Insights
--The dataset initially contained missing values and duplicate records, which were successfully handled during the data         cleaning process.
--A large number of duplicate entries (4263) were removed, improving the overall data quality and reliability.
- The majority of trending videos belong to category 24 (Entertainment), indicating that entertainment content dominates the    platform.
--Videos such as YouTube Rewind 2017 and major movie trailers received the highest number of views, highlighting the            popularity of large-scale productions.
--A positive relationship exists between views, likes, and comments, suggesting that highly viewed videos tend to generate      higher engagement.
--Engagement varies across videos, indicating that not all popular videos receive proportional user interaction.
--Time-based analysis using day and month features enables better understanding of trending patterns.
+- The dataset initially contained missing values and duplicate records, which were successfully handled during the data         cleaning process.
+- A large number of duplicate entries (4263) were removed, improving the overall data quality and reliability.
+  The majority of trending videos belong to category 24 (Entertainment), indicating that entertainment content dominates the    platform.
+- Videos such as YouTube Rewind 2017 and major movie trailers received the highest number of views, highlighting the            popularity of large-scale productions.
+- A positive relationship exists between views, likes, and comments, suggesting that highly viewed videos tend to generate      higher engagement.
+- Engagement varies across videos, indicating that not all popular videos receive proportional user interaction.
+- Time-based analysis using day and month features enables better understanding of trending patterns.
 
 ## Recommendations
--Content creators should focus more on entertainment-based content, as it consistently attracts higher audience engagement     and dominates trending categories.
--High-impact content such as movie trailers, promotional events, and viral campaigns should be prioritized to maximize reach   and visibility.
--Engagement metrics (likes and comments) should be monitored to improve content quality and audience interaction strategies.
--Posting schedules can be optimized using time-based insights (day and month) to target periods of higher audience activity.
--Data preprocessing and cleaning should always be performed before analysis to ensure accuracy and reliability of insights.
--Future analysis can include sentiment analysis of comments or mapping category IDs to actual category names for deeper        insights.
+- Content creators should focus more on entertainment-based content, as it consistently attracts higher audience engagement     and dominates trending categories.
+- High-impact content such as movie trailers, promotional events, and viral campaigns should be prioritized to maximize reach   and visibility.
+- Engagement metrics (likes and comments) should be monitored to improve content quality and audience interaction strategies.
+- Posting schedules can be optimized using time-based insights (day and month) to target periods of higher audience activity.
+- Data preprocessing and cleaning should always be performed before analysis to ensure accuracy and reliability of insights.
+- Future analysis can include sentiment analysis of comments or mapping category IDs to actual category names for deeper        insights.
 
 ## Conclusion
 
